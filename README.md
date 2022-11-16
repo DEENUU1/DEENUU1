@@ -16,3 +16,6 @@ I'm currently working on my own website and learning Django.<br>When I want to c
 [![](https://visitcount.itsvg.in/api?id=DEENUU1&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="ezgif.com-gif-maker.gif"/>
+<img src="program.gif"/>
