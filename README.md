@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A young programmer fascinated about cosmos.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deenuu1" alt="deenuu1" /></a> </p>
-
-- 🌱 I’m currently learning **Django, HTML5, CSS**
-
+- 👨‍💻 I'm currentlu working on: Django e commerce website
 - 📫 How to reach me **kacperwlodarczyk@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deenuu1&show_icons=true&locale=en&layout=compact" alt="deenuu1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deenuu1&show_icons=true&locale=en" alt="deenuu1" /></p>
