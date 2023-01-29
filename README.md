@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">A young programmer fascinated about cosmos.</h3>
 
-- 🔭 I’m currently working on [DJANGO-ECOMMERCE-WEBSITE-WITH-API](https://github.com/DEENUU1/DJANGO-ECOMMERCE-WEBSITE-WITH-API)
-
-- 💬 Ask me about **Django, Rest framework and Docker**
+- 🔭 I’m currently working on ...
 
 - 📫 How to reach me **kacperwlodarczyk@protonmail.com**
 
@@ -18,6 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deenuu1&show_icons=true&locale=en&layout=compact" alt="deenuu1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deenuu1&show_icons=true&locale=en" alt="deenuu1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deenuu1&" alt="deenuu1" /></p>
