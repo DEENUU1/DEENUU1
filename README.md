@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on: "WEATHER MUSIC" an application that recommends music based on your weather
 
 - 📫 How to reach me **kacperwlodarczyk@protonmail.com**
 
