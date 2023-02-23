@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 
-- 🔭 I’m currently working on: "WEATHER MUSIC" an application that recommends music based on your weather
+- 🔭 I’m currently working on: "MOVIE SIMILAR TO" Flask simple application that allows to search similiar movies
 
 - 📫 How to reach me **kacperwlodarczyk@protonmail.com**
 
