@@ -1,8 +1,8 @@
 # 💫About Me :
 - 🔭 I’m currently working on: 
-  - Flask "Movie similar to..." 
+  - "Space API" 
   - "News summaries" Python&OpenAI application which I am still developing
-- 🌱 I'm currently learning: Python and Computer Science
+- 🌱 I'm currently learning: JavaScript and Django Rest Framework
 - 🤴 I would like to learn: FastAPI, AWS, ML
 📨 kacperwlodarczyk@protonmail.com
 
