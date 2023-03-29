@@ -1,8 +1,6 @@
 # 💫About Me :
-- 🔭 I’m currently working on: 
-  - "Space API" 
-  - "News summaries" Python&OpenAI application which I am still developing
-- 🌱 I'm currently learning: JavaScript and Django Rest Framework
+- 🔭 I’m currently working on: "Space API" 
+- 🌱 I'm currently learning: JavaScript and React
 - 🤴 I would like to learn: FastAPI, AWS, ML
 📨 kacperwlodarczyk@protonmail.com
 
