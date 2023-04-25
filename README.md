@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: Python CLI Desktop Assistant<br>🌱 I'm currently learning: Python & React<br>🤴 I would like to learn: Go, C++, AWS<br>📨 kacperwlodarczyk@protonmail.com</p>
+<p align="left">🔭 I’m currently working on: Django Jobs Platform <br>🌱 I'm currently learning: .NET <br>🤴 I would like to learn: Go and AWS or other cloud<br>📨 kacperwlodarczyk@protonmail.com</p>
 
 ###
 
