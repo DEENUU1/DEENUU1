@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/MyFridge">MyFridge</a><br>🌱 I'm currently learning:  <br>🤴 I would like to learn: Rust/Go <br>📨 kacperwlodarczyk@protonmail.com</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/MyFridge">MyFridge</a> | <a href="https://github.com/DEENUU1/Wallpaper-Manager">Wallpaper Manager</a><br>🌱 I'm currently learning:  <br>🤴 I would like to learn: Rabbitmq | Microservices | DDD | Sockets | AWS | Kubernetes | Raspberry PI   <br>📨 kacperwlodarczyk@protonmail.com</p>
 
 ###
 
