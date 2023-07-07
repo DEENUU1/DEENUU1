@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Kacper, a recent graduate of an electronic technical school with a specialization in electronics technician. My passion lies in backend development, and I prefer it over frontend development. I am currently working on my projects using the technologies listed below.</p>
+<p align="left">I am Kacper, a recent graduate of an electronic technical school with a specialization in electronics technician. My passion lies in backend development, and I prefer it over front-end development. I am currently working on my projects using the technologies listed below.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/MyFridge">MyFridge</a> | <a href="https://github.com/DEENUU1/Wallpaper-Manager">Wallpaper Manager</a><br>🌱 I'm currently learning:  <br>🤴 I would like to learn: Rabbitmq | Microservices | DDD | Sockets | AWS | Kubernetes | Raspberry PI   <br>📨 kacperwlodarczyk@protonmail.com</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/MyFridge">MyFridge</a> | <a href="https://github.com/DEENUU1/Wallpaper-Manager">Wallpaper Manager</a><br>🌱 I'm currently learning:  <br>🤴 I would like to learn:  <br>📨 kacperwlodarczyk@protonmail.com</p>
 
 ###
 
@@ -38,7 +38,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DEENUU1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DEENUU1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
