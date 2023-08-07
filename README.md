@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="left">Hello World!!</h1>
+<h1 align="left">print("Hello!")</h1>
 
 ###
 
-<p align="left">I am Kacper, a recent graduate of an electronic technical school with a specialization in electronics technician. My passion lies in backend development, and I prefer it over front-end development. I am currently working on my projects using the technologies listed below.</p>
+<p align="left">I am Kacper, a recent graduate of an electronic technical school with a specialization in electronics technician. My passion lies in backend development, which I prefer over front-end development. I am currently working on my projects using the technologies listed below.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/Wallpaper-Manager">Wallpaper Manager</a><be> <br> 📨 kacperwlodarczyk@protonmail.com</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/Wallpaper-Manager">Facebook-spy</a><be> <br> 📨 kacperwlodarczyk@protonmail.com <br>🧪I would like to learn: c++, go, rasraspberry pi</p>
 
 
 ###
