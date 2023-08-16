@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/Wallpaper-Manager">Facebook-spy</a><be> <br> 📨 kacperwlodarczyk@protonmail.com <br>🧪I would like to learn: c++, go, rasraspberry pi</p>
+<p align="left">🔭 I’m currently working on: <a href="https://github.com/DEENUU1/Facebook-spy">Facebook-spy</a><be> <br> 📨 kacperwlodarczyk@protonmail.com <br>🧪I would like to learn: c++, go, rasraspberry pi</p>
 
 
 ###
