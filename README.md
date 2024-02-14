@@ -6,15 +6,12 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
-    <p 
-        style="flex: 1;">
-        - 🔭 Currently working on <a href="https://github.com/DEENUU1/digital-fortress">Digital-Fortress</a><br> 
-        - 🧐 Learning <strong>C++</strong> and <strong>Google Cloud</strong>, when I feel like it, I do Leetcodes<br> 
-        - 📝 I started writing articles on Medium
-    </p>
-    <img height="200" src="https://media.giphy.com/media/o94KSuy8CqCZhijL16/giphy.gif" />
-</div>
+<p 
+    style="flex: 1;">
+    - 🔭 Currently working on <a href="https://github.com/DEENUU1/digital-fortress">Digital-Fortress</a><br> 
+    - 🧐 Learning <strong>C++</strong> and <strong>Google Cloud</strong>, when I feel like it, I do Leetcodes<br> 
+    - 📝 I started writing articles on Medium
+</p>
 
 
 ###
