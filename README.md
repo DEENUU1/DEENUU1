@@ -17,7 +17,7 @@
 ###
 
 <h3 align="left">Recent Posts</h3>
-- <a href="https://medium.com/@kacperwlodarczyk/langchain-make-com-sqlite-build-your-ai-assistant-3071d63fdd8b"> <strong>Langchain + make.com + SQLite — build your AI Assistant</strong> </a>
+- <a href="https://medium.com/@kacperwlodarczyk/langchain-make-com-sqlite-build-your-ai-assistant-3071d63fdd8b"> <strong>Langchain + make.com + SQLite — build your AI Assistant</strong> </a> </br>
 - <a href="https://medium.com/@kacperwlodarczyk/jarvis-the-history-of-my-private-assistant-f802e09b2c96"> <strong>Jarvis the history of my private assistant</strong> </a>
 
 ###
