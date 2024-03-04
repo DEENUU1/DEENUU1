@@ -8,7 +8,7 @@
 
 <p 
     style="flex: 1;">
-    - 🔭 Currently working on <a href="https://github.com/DEENUU1/digital-fortress">Digital-Fortress</a><br> 
+    - 🔭 Currently working on <a href="https://github.com/DEENUU1/party_games">Party Games</a><br> 
     - 🧐 Learning <strong>C++ (for for educational purposes) </strong>, <strong>Java</strong> and <strong>Google Cloud</strong>, when I feel like it, I do Leetcodes<br> 
     - 📝 I started writing articles on Medium
 </p>
